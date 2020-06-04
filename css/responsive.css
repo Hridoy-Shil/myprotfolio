@@ -1,0 +1,196 @@
+/*Extra x small devices (portrait phones, less than 374px)*/
+@media only screen and (max-width: 374px) {
+
+    #header-part .header-text h4 {
+        font-size: 16px;
+    }
+
+    #header-part .btn-custom {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    #midlle-part .btn-custom-2 {
+        width: 100%;
+    }
+
+
+    #last-part h2.title {
+        margin-top: -60px;
+        text-align: center;
+        text-decoration: underline;
+    }
+
+    #last-part .right-part {
+        margin-top: 30px;
+    }
+
+
+}
+
+/*  small devices (portrait phones, less than 414px)*/
+@media only screen and (min-width: 375px) and (max-width: 414px) {
+
+    #header-part .header-text h4 {
+        font-size: 16px;
+    }
+
+    #header-part .btn-custom {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    #midlle-part .btn-custom-2 {
+        width: 100%;
+    }
+
+    #last-part h2.title {
+        margin-top: -60px;
+        text-align: center;
+        text-decoration: underline;
+    }
+
+    #last-part .right-part {
+        margin-top: 30px;
+    }
+
+
+}
+
+/* small devices (portrait phones, less than 576px)*/
+@media only screen and (min-width: 415px) and (max-width: 575.98px) {
+
+    #header-part .header-text h4 {
+        font-size: 18px;
+    }
+
+    #header-part .btn-custom {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    #midlle-part .btn-custom-2 {
+        width: 100%;
+    }
+
+    #last-part h2.title {
+        margin-top: -60px;
+        text-align: center;
+        text-decoration: underline;
+    }
+
+    #last-part .right-part {
+        margin-top: 30px;
+    }
+
+
+}
+
+
+/* Small devices (landscape phones, 576px and up)*/
+@media only screen and (min-width: 576px) and (max-width: 675px) {
+
+
+    #header-part .header-text h4 {
+        font-size: 18px;
+    }
+
+    #header-part .btn-custom {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    #midlle-part .btn-custom-2 {
+        width: 100%;
+    }
+
+    #last-part h2.title {
+        margin-top: -60px;
+        text-align: center;
+        text-decoration: underline;
+    }
+
+    #last-part .right-part {
+        margin-top: 30px;
+    }
+
+}
+
+
+@media only screen and (min-width: 676px) and (max-width: 767.98px) {
+
+    #header-part .header-text h4 {
+        font-size: 18px;
+    }
+
+    #header-part .btn-custom {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    #midlle-part .btn-custom-2 {
+        width: 100%;
+    }
+
+    #last-part h2.title {
+        margin-top: -60px;
+        text-align: center;
+        text-decoration: underline;
+    }
+
+    #last-part .right-part {
+        margin-top: 30px;
+    }
+
+
+}
+
+
+/* Medium devices (tablets, 768px and up)*/
+@media only screen and (min-width: 768px) and (max-width: 868px) {
+
+
+    #header-part .header-text h4 {
+        font-size: 17px;
+    }
+
+    #last-part .left-part h5 {
+        font-size: 14px;
+    }
+
+    #last-part .right-part h2 {
+        font-size: 24px;
+    }
+
+    #last-part .right-part h5 {
+        font-size: 14px;
+    }
+
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media only screen and (min-width: 869px) and (max-width: 1020px) {
+
+    #header-part .header-text h4 {
+        font-size: 17px;
+    }
+
+    #last-part .left-part h5 {
+        font-size: 14px;
+    }
+
+    #last-part .right-part h2 {
+        font-size: 24px;
+    }
+
+    #last-part .right-part h5 {
+        font-size: 14px;
+    }
+
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media only screen and (min-width: 1021px) and (max-width: 1200px) {}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1201px) {}
